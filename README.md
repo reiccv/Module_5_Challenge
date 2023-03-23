@@ -9,6 +9,9 @@ Part 2: A financial planner for retirement. This tool will forecast the performa
 
 # Imports
 
-The imports, libraries and dependecies 
+The imports, libraries and dependecies I used for this financial analysis tool are  os, requests, json, pandas, dotenv, alpaca_trade_api and 
+MCForecastTools
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/imports_mod5.PNG)
+
 
 # 
