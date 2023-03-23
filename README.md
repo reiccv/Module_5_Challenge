@@ -20,17 +20,19 @@ MCForecastTools
 
 In this section, ill determine the current value of a member’s cryptocurrency wallet. ill collect the current prices for the Bitcoin and Ethereum cryptocurrencies by using the Python Requests library. For the prototype, ill assume that the member holds the 1.2 Bitcoins (BTC) and 5.3 Ethereum coins (ETH). To do all this, complete the following steps:
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_1.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_2.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_3.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_4.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_5.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_6.PNG)
+
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part1_7.PNG)
 
 # Financial Planner for Retiremenet
 
@@ -42,12 +44,12 @@ Make an API call via the Alpaca SDK to get 3 years of historical closing prices 
 Run a Monte Carlo simulation of 500 samples and 30 years for the 60/40 portfolio, and then plot the results.
 
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part2_1.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part2_2.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part2_3.PNG)
 
-![alt text]()
+![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part2_4.PNG)
 
-![alt text]()
+# Jupyter notebook 
