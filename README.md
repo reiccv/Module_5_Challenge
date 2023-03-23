@@ -52,4 +52,12 @@ Run a Monte Carlo simulation of 500 samples and 30 years for the 60/40 portfolio
 
 ![alt text](https://github.com/reiccv/Module_5_Challenge/blob/main/Images/part2_4.PNG)
 
-# Jupyter notebook 
+# Results 
+
+The resulsts are 
+
+![alt text]()
+
+![alt text]()
+
+ I think it is unlikely the members will be able to retire after 10 years as the lower end return is too small of a value, with the potential of reaching $469,629.37 in 10 years however I dont believe that is enough to retire in 10 years. Very unlikely
